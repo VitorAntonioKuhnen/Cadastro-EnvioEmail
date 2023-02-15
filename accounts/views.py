@@ -26,8 +26,8 @@ def gerarSenha():
 
 def enviaEmail(email, nomeCompleto, user, senha):
     #The mail addresses and password
-    sender_address = 'viniciusmschutz.vs@gmail.com'
-    sender_pass = 'wjyydyuygdolgbuw'
+    sender_address = 'Coloque seu E-mail'
+    sender_pass = 'Coloque seu Acesso de App'
     receiver_address = email
     #Setup the MIME
     message = MIMEMultipart()
